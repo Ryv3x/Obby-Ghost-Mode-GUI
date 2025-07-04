@@ -41,7 +41,7 @@ A full-featured Ghost Mode system for Roblox Obby/Tower games. Records your move
 
 ## 📂 Files
 
-- `main_script.lua` – Full client-side GUI and logic.
+- [Script](main_script.lua) – Full client-side GUI and logic.
 - GUI elements created dynamically with clean, modern layout.
 
 ---
